@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Darsh</h1>
+<h1 align="center">Hi 👋, I'm Darshak</h1>
 <h3 align="center">An enthusiastic beginner developer from India</h3>
 
 - ⚡ Fun fact **I love to be techie**
